@@ -36,7 +36,25 @@ class Base(TorrentMagnetProvider):
         'https://thepirateproxy.co',
         'https://theproxypirate.pw',
         'https://arrr.xyz',
-        'https://tpb.dashitz.com'
+        'https://tpb.dashitz.com',
+        'https://thepiratebay3.org',
+	
+        'https://piratebaylive.ltd',
+
+        'https://piratebay1.live',
+        'https://thepiratebay10.org',
+        'https://piratebay1.info',
+        'https://thepiratebays.live',
+        'https://thepiratebay1.live',
+        'https://thepiratebays.info',
+        'https://thepiratebay1.com',
+        'https://piratebay1.top',
+        'https://piratebay.live',
+        'https://tpb.party',
+        'https://piratebayproxy.live',
+        'https://thehiddenbay.com',
+        'https://thepiratebay9.net',
+        'https://thepiratebay.vet'
     ]
 
     def __init__(self):
